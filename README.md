@@ -8,3 +8,7 @@ time series data and build an accurate predictive model. The goal of the project
 Glimpses of deployed model
 ![image](https://user-images.githubusercontent.com/71877222/211506384-703af2f9-29a4-42f4-99e5-9b5948aee541.png)
 
+You can see this model in your browser by coping the below link:
+Local URL: http://localhost:8501
+  
+
